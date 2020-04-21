@@ -1,2 +1,2 @@
-# gulburaksabirova.github.io
+# Gulburak Sabirova
 My first step into programming!
